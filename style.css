@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: larger;
+    background-color: rgb(164, 59, 94);   
+    background-size: 100px;
+    
+}
+
+#warp{
+    background-color: rgba(220, 229, 224, 0.895);
+    width: 1150px;
+    height: 1750px;
+    margin: auto;
+}
+
+.content{
+    width: 1100px;
+    height: 1400px;
+    background-color: rgb(176, 93, 150);
+}
+
+span {
+    background-color: rgb(73, 117, 130);
+}
+
+aside {
+    width: 65%;
+    height: 25%;
+    float: right;
+    font-style: bold;
+}
+
+.box
+{
+    float: right;
+    margin-right:50px;   
+}
+
+
+
+
